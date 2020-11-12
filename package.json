@@ -1,0 +1,22 @@
+{
+  "name": "count-true",
+  "version": "1.0.0",
+  "description": "'true' count with an array ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckymore/count-true.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "打个大西瓜",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckymore/count-true/issues"
+  },
+  "homepage": "https://github.com/luckymore/count-true#readme"
+}
